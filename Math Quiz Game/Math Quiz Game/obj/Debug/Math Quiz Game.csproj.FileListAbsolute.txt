@@ -1,0 +1,9 @@
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\bin\Debug\Math Quiz Game.exe.config
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\bin\Debug\Math Quiz Game.exe
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\bin\Debug\Math Quiz Game.pdb
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math Quiz Game.csprojAssemblyReference.cache
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math_Quiz_Game.Form1.resources
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math_Quiz_Game.Properties.Resources.resources
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math Quiz Game.csproj.GenerateResource.cache
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math Quiz Game.exe
+C:\Users\Katsuya\source\repos\Math Quiz Game\Math Quiz Game\obj\Debug\Math Quiz Game.pdb
